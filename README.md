@@ -292,8 +292,6 @@ const createBearStore = () =>
   }))
 ```
 
-Use with context to scope per request. See the [SSR Guide](https://docs.pmnd.rs/zustand/guides/nextjs) for full details.
-
 ---
 
 ## 📁 Project Structure (Recommended)
@@ -327,21 +325,12 @@ Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of cond
 
 ---
 
-## 🔗 Resources
-
-- 📖 [Official Documentation](https://docs.pmnd.rs/zustand/getting-started/introduction)
-- 🐛 [Issue Tracker](https://github.com/pmndrs/zustand/issues)
-- 💬 [Discussions](https://github.com/pmndrs/zustand/discussions)
-- 🗺️ [Roadmap](https://github.com/pmndrs/zustand/projects)
-
----
-
 ## 📄 License
 
-MIT © [Poimandres](https://github.com/pmndrs)
+MIT © [Naveen Gautam](https://github.com/thenaveengautam)
 
 ---
 
 <p align="center">
-  Made with ❤️ by the <a href="https://github.com/pmndrs">Poimandres</a> open source collective
+  Made with ❤️ by the <a href="https://github.com/thenaveengautam">Naveen Gautam</a> open source collective
 </p>
